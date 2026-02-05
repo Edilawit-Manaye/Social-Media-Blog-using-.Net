@@ -1,6 +1,6 @@
 
 
-# Social Blog Backend 🚀
+# Social Blog Backend 
 
 
 A social media backend built with **.NET 8** and **Clean Architecture**. This project demonstrates a scalable, secure, and modern approach to building web APIs.
