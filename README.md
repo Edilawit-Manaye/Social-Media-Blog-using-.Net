@@ -1,10 +1,9 @@
-<<<<<<< HEAD
-# G6 Social Blog Backend 🚀
-=======
-# Social Blog Backend 🚀
->>>>>>> 60008c1fc81aff305c51de2288a0136e6f2ed099
 
-An enterprise-grade social media backend built with **.NET 8** and **Clean Architecture**. This project demonstrates a scalable, secure, and modern approach to building web APIs.
+
+# Social Blog Backend 🚀
+
+
+A social media backend built with **.NET 8** and **Clean Architecture**. This project demonstrates a scalable, secure, and modern approach to building web APIs.
 
 ## 🔥 Key Features
 
@@ -21,29 +20,3 @@ An enterprise-grade social media backend built with **.NET 8** and **Clean Archi
 - **Documentation**: Swagger/OpenAPI
 - **Testing**: Unit Testable Design (Dependency Injection)
 
-<<<<<<< HEAD
-## 🚀 Getting Started
-
-1.  **Prerequisites**:
-    *   .NET 8 SDK
-    *   MongoDB running locally on `mongodb://localhost:27017`
-
-2.  **Run the Application**:
-    ```bash
-    dotnet restore
-    dotnet run --project G6Blog.Api
-    ```
-
-3.  **Explore API**:
-    *   Navigate to `http://localhost:5000/swagger` (or port indicated in console) to test endpoints.
-
-## 📂 Project Structure
-
-```
-├── G6Blog.Domain          # Core Entities & Interfaces (Zero Dependencies)
-├── G6Blog.Application     # Business Logic & DTOs
-├── G6Blog.Infrastructure  # DB, AI, & Auth Implementations
-└── G6Blog.Api             # REST Controllers & Entry Point
-```
-=======
->>>>>>> 60008c1fc81aff305c51de2288a0136e6f2ed099
