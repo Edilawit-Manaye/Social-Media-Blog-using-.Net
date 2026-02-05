@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\g6-blog-starter\G6Blog.Api\obj\Debug\net8.0\G6Blog.Api.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\g6-blog-starter\G6Blog.Api\obj\Debug\net8.0\G6Blog.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\g6-blog-starter\G6Blog.Api\obj\Debug\net8.0\G6Blog.Api.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\g6-blog-starter\G6Blog.Api\obj\Debug\net8.0\G6Blog.Api.AssemblyInfo.cs
+C:\Users\hp\Desktop\g6-blog-starter\G6Blog.Api\obj\Debug\net8.0\G6Blog.Api.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\g6-blog-starter\G6Blog.Api\obj\Debug\net8.0\G6Blog.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Desktop\g6-blog-starter\G6Blog.Api\obj\Debug\net8.0\G6Blog.Api.MvcApplicationPartsAssemblyInfo.cache

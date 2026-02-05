@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TJNTHPuIK/s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\g6-blog-starter\\G6Blog.Application\\G6Blog.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\mongodb.bson\\3.6.0\\mongodb.bson.3.6.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

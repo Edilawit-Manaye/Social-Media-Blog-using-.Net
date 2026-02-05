@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\g6-blog-starter\G6Blog.Application\bin\Debug\net8.0\G6Blog.Application.deps.json
+C:\Users\hp\Desktop\g6-blog-starter\G6Blog.Application\bin\Debug\net8.0\G6Blog.Application.dll
+C:\Users\hp\Desktop\g6-blog-starter\G6Blog.Application\bin\Debug\net8.0\G6Blog.Application.pdb
+C:\Users\hp\Desktop\g6-blog-starter\G6Blog.Application\bin\Debug\net8.0\G6Blog.Domain.dll
+C:\Users\hp\Desktop\g6-blog-starter\G6Blog.Application\bin\Debug\net8.0\G6Blog.Domain.pdb
+C:\Users\hp\Desktop\g6-blog-starter\G6Blog.Application\obj\Debug\net8.0\G6Blog.Application.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\g6-blog-starter\G6Blog.Application\obj\Debug\net8.0\G6Blog.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\g6-blog-starter\G6Blog.Application\obj\Debug\net8.0\G6Blog.Application.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\g6-blog-starter\G6Blog.Application\obj\Debug\net8.0\G6Blog.Application.AssemblyInfo.cs
+C:\Users\hp\Desktop\g6-blog-starter\G6Blog.Application\obj\Debug\net8.0\G6Blog.Application.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\g6-blog-starter\G6Blog.Application\obj\Debug\net8.0\G6Blog.A.82C0AF75.Up2Date
+C:\Users\hp\Desktop\g6-blog-starter\G6Blog.Application\obj\Debug\net8.0\G6Blog.Application.dll
+C:\Users\hp\Desktop\g6-blog-starter\G6Blog.Application\obj\Debug\net8.0\refint\G6Blog.Application.dll
+C:\Users\hp\Desktop\g6-blog-starter\G6Blog.Application\obj\Debug\net8.0\G6Blog.Application.pdb
+C:\Users\hp\Desktop\g6-blog-starter\G6Blog.Application\obj\Debug\net8.0\ref\G6Blog.Application.dll
