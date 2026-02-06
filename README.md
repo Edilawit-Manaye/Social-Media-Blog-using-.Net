@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # G6 Social Blog Backend 🚀
+=======
+# Social Blog Backend 🚀
+>>>>>>> 60008c1fc81aff305c51de2288a0136e6f2ed099
 
 An enterprise-grade social media backend built with **.NET 8** and **Clean Architecture**. This project demonstrates a scalable, secure, and modern approach to building web APIs.
 
@@ -17,6 +21,7 @@ An enterprise-grade social media backend built with **.NET 8** and **Clean Archi
 - **Documentation**: Swagger/OpenAPI
 - **Testing**: Unit Testable Design (Dependency Injection)
 
+<<<<<<< HEAD
 ## 🚀 Getting Started
 
 1.  **Prerequisites**:
@@ -40,3 +45,5 @@ An enterprise-grade social media backend built with **.NET 8** and **Clean Archi
 ├── G6Blog.Infrastructure  # DB, AI, & Auth Implementations
 └── G6Blog.Api             # REST Controllers & Entry Point
 ```
+=======
+>>>>>>> 60008c1fc81aff305c51de2288a0136e6f2ed099
